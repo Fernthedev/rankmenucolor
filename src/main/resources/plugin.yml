@@ -1,0 +1,10 @@
+name: RankColor-Menu
+version: 1.0
+main: com.github.fernthedev.RankColor.Main
+depend: [Vault]
+softdepend: [NametagEdit]
+# Replace "kit" with the name of your command.
+commands:
+   rankcolor:
+      description: Allows you to change your rank color (Config configured)
+      usage: /rankcolor
